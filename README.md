@@ -14,6 +14,4 @@ Tratamento de Empates: Implemente a lógica para tratar empates. Se a soma dos a
      
 Menus Dinâmicos: Crie menus interativos e dinâmicos usando switch. "Dinâmicos" significa que, por exemplo, após o jogador escolher o primeiro atributo, esse atributo não deve mais aparecer como opção para a escolha do segundo atributo.
 
-        Qual carta venceu (ou se houve empate).
-
 
